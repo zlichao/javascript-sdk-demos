@@ -7,4 +7,4 @@ Javascript SDK 、云代码方面的示例程序
 * [Todo 列表](https://github.com/avoscloud/todo)，[在线地址](https://todolist.avosapps.com)
 * [留言板](https://github.com/killme2008/cloudcode-test)，[在线地址](https://myapp.avosapps.com)
 * [社交 App 服务端](https://github.com/avoscloud/AdventureCloud)
-* [数码设备平台App 微转服务端](https://github.com/avoscloud/VZ_Server)
+* [数码设备交流平台 App 微转服务端](https://github.com/avoscloud/VZ_Server)
